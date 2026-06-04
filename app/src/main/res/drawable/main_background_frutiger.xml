@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#E0F7FA"
+                android:centerColor="#B2EBF2"
+                android:endColor="#81D4FA"
+                android:angle="270"/>
+        </shape>
+    </item>
+    <item android:drawable="@drawable/bubbles_overlay" />
+</layer-list>

@@ -2,4 +2,13 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Frutiger Aero Palette -->
+    <color name="sky_blue">#00A8E8</color>
+    <color name="deep_ocean">#0077B6</color>
+    <color name="grass_green">#8BC34A</color>
+    <color name="glass_light">#B2EBF2</color>
+    <color name="glass_white">#E0F7FA</color>
+    <color name="glossy_highlight">#70D1F4</color>
+    <color name="cyber_neon">#00FFCC</color>
 </resources>
